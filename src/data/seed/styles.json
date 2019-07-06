@@ -1,0 +1,21 @@
+[
+  { "_id": 1, "name": "Abstract" },
+  { "_id": 4, "name": "Adult" },
+  { "_id": 49, "name": "Animal" },
+  { "_id": 10, "name": "Asian" },
+  { "_id": 13, "name": "Bio-Mechanical" },
+  { "_id": 73, "name": "Birds" },
+  { "_id": 16, "name": "Black & Gray" },
+  { "_id": 55, "name": "Butterfly" },
+  { "_id": 7, "name": "Cartoonish" },
+  { "_id": 76, "name": "Disturbing" },
+  { "_id": 58, "name": "Fantasy" },
+  { "_id": 61, "name": "Flower" },
+  { "_id": 22, "name": "Lettering" },
+  { "_id": 25, "name": "Minimal" },
+  { "_id": 28, "name": "Old School" },
+  { "_id": 40, "name": "Portrait" },
+  { "_id": 46, "name": "Religious" },
+  { "_id": 67, "name": "Symbols" },
+  { "_id": 43, "name": "Tribal" }
+]

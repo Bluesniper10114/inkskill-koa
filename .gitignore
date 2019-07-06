@@ -1,0 +1,6 @@
+.idea
+.env
+node_modules
+src/data/migrations/.migrate
+media
+.migrate

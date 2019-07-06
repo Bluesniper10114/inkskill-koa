@@ -1,0 +1,14 @@
+[
+  {
+    "_id" : "gallery",
+    "name" : "Gallery"
+  },
+  {
+    "_id" : "profile_pics",
+    "name" : "Profile Pics"
+  },
+  {
+    "_id" : "wall",
+    "name" : "Wall"
+  }
+]

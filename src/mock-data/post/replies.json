@@ -1,0 +1,24 @@
+[
+  {
+    "id": 637,
+    "user_id": 2314,
+    "user_type": 2,
+    "username": "vitaly.sivkov",
+    "avatar": "1865568683690979.jpg",
+    "comment": "second reply edited",
+    "created": "1 d",
+    "ux_created": 1489385156,
+    "no_likes": 0
+  },
+  {
+    "id": 634,
+    "user_id": 2314,
+    "user_type": 2,
+    "username": "vitaly.sivkov",
+    "avatar": "1865568683690979.jpg",
+    "comment": "reply",
+    "created": "4 d",
+    "ux_created": 1489126103,
+    "no_likes": 2
+  }
+]
